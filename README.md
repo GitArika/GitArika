@@ -10,36 +10,36 @@ I love extreme programming and agil culture, everyday contributing for a better 
 
 See `summary list of technologys` I use on my daily work bellow:
 
-<img src="./img/typescript.svg" alt="typescript icon" width="14px" height="14px">&nbsp;`Typescript`<img/> - Superset of Javascript with new features
+<img src="./img/typescript.svg" alt="typescript icon" width="18px" height="18px">&nbsp;&nbsp;`Typescript`<img/> - Superset of Javascript with new features
 
-&nbsp;<img src="./img/javascript.svg" alt="javascript icon" width="14px" height="14px"/>&nbsp;`Javascript`<img/>
+&nbsp;<img src="./img/javascript.svg" alt="javascript icon" width="18px" height="18px"/>&nbsp;&nbsp;`Javascript`<img/>
 Programming language for web applications
 
-&nbsp;<img src="./img/html.png" alt="html icon" width="14px" height="14px"/>&nbsp;`HTML5`<img/>
+&nbsp;<img src="./img/html.png" alt="html icon" width="18px" height="18px"/>&nbsp;`HTML5`<img/>
 Markup language for web applications
 
-&nbsp;<img src="./img/css.svg" alt="css icon" width="14px" height="14px"/>&nbsp;`CSS3`<img/>
+&nbsp;<img src="./img/css.svg" alt="css icon" width="18px" height="18px"/>&nbsp;&nbsp;`CSS3`<img/>
 Style sheet language for web applications
 
-&nbsp;<img src="./img/sass.png" alt="sass icon" width="14px" height="14px"/>&nbsp;`Sass`<img/>
+&nbsp;<img src="./img/sass.png" alt="sass icon" width="18px" height="18px"/>&nbsp;&nbsp;`Sass`<img/>
 Preprocessor that is compiled into CSS
 
-&nbsp;<img src="./img/nodejs.svg" alt="nodejs icon" width="14px" height="14px"/>&nbsp;`NodeJS`<img/>
+&nbsp;<img src="./img/nodejs.svg" alt="nodejs icon" width="18px" height="18px"/>&nbsp;&nbsp;`NodeJS`<img/>
 Provides a javascript backend runtime
 
-&nbsp;<img src="./img/react.svg" alt="react icon" width="14px" height="14px"/>&nbsp;`React`<img/>
+&nbsp;<img src="./img/react.svg" alt="react icon" width="18px" height="18px"/>&nbsp;&nbsp;`React`<img/>
 Popular library used to create components and user interfaces.
 
-&nbsp;<img src="./img/angular.svg" alt="angular icon" width="14px" height="14px"/>&nbsp;`Angular`<img/>
+&nbsp;<img src="./img/angular.svg" alt="angular icon" width="18px" height="18px"/>&nbsp;&nbsp;`Angular`<img/>
 Typescript based web application framwork.
 
-&nbsp;<img src="./img/unit-test.svg" alt="unit test icon" width="14px" height="14px" />&nbsp;`Unit testing`<img/>
+&nbsp;<img src="./img/unit-test.svg" alt="unit test icon" width="18px" height="18px" />&nbsp;&nbsp;`Unit testing`<img/>
 Code quality control practice.
 
-&nbsp;<img src="./img/aws.svg" alt="aws icon" width="14px" height="14px" />&nbsp;`AWS`<img/>
+&nbsp;<img src="./img/aws.svg" alt="aws icon" width="18px" height="18px" />&nbsp;`AWS`<img/>
 Global cloud computing provider leader.
 
-&nbsp;<img src="./img/azure.svg" alt="azure icon" width="14px" height="14px" />&nbsp;`Azure`<img/>
+&nbsp;<img src="./img/azure.svg" alt="azure icon" width="18px" height="18px" />&nbsp;&nbsp;`Azure`<img/>
 Global cloud computing provider.
 
 ## Social Skills 😎
@@ -52,4 +52,4 @@ I love to talk with peaple and work as a communications facilitator on software 
 
 You can see more and contact with LinkedIn:
 
-[Ariel Evangelista](https://www.linkedin.com/in/ariel-evangelista-a4677614b/). Hope you enjoy!
+[Ariel Evangelista](https://www.linkedin.com/in/ariel-evangelista-a4677618b/). Hope you enjoy!
