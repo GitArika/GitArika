@@ -28,10 +28,10 @@ Preprocessor that is compiled into CSS
 Provides a javascript backend runtime
 
 &nbsp;<img src="./img/react.svg" alt="react icon" width="18px" height="18px"/>&nbsp;&nbsp;`React`<img/>
-Popular library used to create components and user interfaces.
+Popular library used to create components and user interfaces created by Facebook.
 
 &nbsp;<img src="./img/angular.svg" alt="angular icon" width="18px" height="18px"/>&nbsp;&nbsp;`Angular`<img/>
-Typescript based web application framwork.
+Typescript based web application framework created by Google.
 
 &nbsp;<img src="./img/unit-test.svg" alt="unit test icon" width="18px" height="18px" />&nbsp;&nbsp;`Unit testing`<img/>
 Code quality control practice.
