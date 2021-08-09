@@ -1,6 +1,6 @@
 # About 🤔
 
-Hi my name is Ariel Evangelista i am a fullstack developer.
+Hi my name is Ariel Evangelista i am a full-stack developer.
 
 I'm actualy working on Brazil, and searching for a job opportunity abroad.
 
