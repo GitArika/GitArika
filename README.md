@@ -24,6 +24,8 @@ Style sheet language for web applications
 &nbsp;<img src="./img/sass.png" alt="sass icon" width="18px" height="18px"/>&nbsp;&nbsp;`Sass`<img/>
 Preprocessor that is compiled into CSS
 
+&nbsp;<img src="https://imgs.search.brave.com/Q2rFFa8zjSGdQEpaCCO9yenUPUv4RpTH8Gl-Q3fViqU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9vcGVu/Y29udGFpbmVycy5v/cmcvaW1nL21lbWJl/ci1sb2dvcy9kb2Nr/ZXIucG5n" alt="docker icon" width="18px" height="18px"/>&nbsp;&nbsp;`Docker`<img/> Docker helps developers build, share, and run applications anywhere
+
 &nbsp;<img src="./img/nodejs.svg" alt="nodejs icon" width="18px" height="18px"/>&nbsp;&nbsp;`NodeJS`<img/>
 Provides a javascript backend runtime
 
@@ -41,12 +43,6 @@ Global cloud computing provider leader.
 
 &nbsp;<img src="./img/azure.svg" alt="azure icon" width="18px" height="18px" />&nbsp;&nbsp;`Azure`<img/>
 Global cloud computing provider.
-
-## Social Skills 😎
-
-I am a psychoanalysis enthusiast, spend my time reading Freud and learning about human behavior.
-
-I love to talk with peaple and work as a communications facilitator on software engineer practices.​
 
 ## Contact 💬
 
