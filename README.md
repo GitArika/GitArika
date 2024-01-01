@@ -1,8 +1,8 @@
 # About 🤔
 
-Hi my name is Ariel Evangelista i am a full-stack developer.
+Hello, World! My name is Ariel Evangelista, I am a fullstack developer.
 
-I'm actualy working on Brazil, and searching for a job opportunity abroad.
+I am actualy living in Sao Paulo Brazil, and searching for a job opportunity abroad.
 
 I love extreme programming and agil culture, everyday contributing for a better work experience on the company I am with in.
 
@@ -46,6 +46,8 @@ Global cloud computing provider.
 
 ## Contact 💬
 
-You can see more and contact with LinkedIn:
+LinkedIn:
 
-[Ariel Evangelista](https://www.linkedin.com/in/ariel-evangelista-a4677618b/). Hope you enjoy!
+[Ariel Evangelista](https://www.linkedin.com/in/ariel-evangelista-a4677618b/).
+
+Hope we build awesome solitions!
