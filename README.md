@@ -2,9 +2,9 @@
 
 Hello, World! My name is Ariel Evangelista, I am a fullstack developer.
 
-I am actualy living in Sao Paulo, Brazil, and searching for a job opportunity abroad.
+I am actualy living in Sao Paulo, Brazil.
 
-I love extreme programming and agil culture, everyday contributing for a better work experience on the company I am with in.
+I love extreme programming and agil culture.
 
 ## Programming Skills 🚀
 
@@ -50,4 +50,4 @@ LinkedIn:
 
 [Ariel Evangelista](https://www.linkedin.com/in/ariel-evangelista-a4677618b/).
 
-Hope we build awesome solutions!
+Let's build awesome solutions together!
