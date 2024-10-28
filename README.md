@@ -1,12 +1,12 @@
-# About 🤔
+About Me 🌍
 
-Hello, World! My name is Ariel Evangelista, I am a fullstack developer.
+Hi, I'm Ariel Evangelista, a passionate Fullstack Developer currently based in Bahia, Brazil.
 
-I am actualy living in Sao Paulo, Brazil.
+I specialize in creating scalable backend solutions and love working with agile methodologies and extreme programming practices to drive innovation and efficiency in development.
 
-I love extreme programming and agil culture.
+Skills & Technologies 🚀
 
-## Programming Skills 🚀
+These are the main technologies I work with daily to build high-quality software:
 
 See `summary list of technologys` I use on my daily work bellow:
 
@@ -44,10 +44,20 @@ Global cloud computing provider leader.
 &nbsp;<img src="./img/azure.svg" alt="azure icon" width="18px" height="18px" />&nbsp;&nbsp;`Azure`<img/>
 Global cloud computing provider.
 
-## Contact 💬
+## Connect with Me 💬
 
-LinkedIn:
+Feel free to reach out on [Linkedin](https://www.linkedin.com/in/ariel-evangelista/).
 
-[Ariel Evangelista](https://www.linkedin.com/in/ariel-evangelista-a4677618b/).
+Let’s create impactful solutions together!
 
-Let's build awesome solutions together!
+### GitHub Stats 📊
+
+![Ariel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GitArika&show_icons=true&theme=radical)
+
+### Most Used Languages 🖥️
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GitArika&layout=compact&theme=radical)
+
+
+
+
