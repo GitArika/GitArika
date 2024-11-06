@@ -1,63 +1,67 @@
-About Me 🌍
+# 👋 Hello, I'm Ariel Evangelista!
 
-Hi, I'm Ariel Evangelista, a passionate Fullstack Developer currently based in Bahia, Brazil.
+I'm a **Brazilian Software Engineer** with a passion for solving complex problems and creating efficient, innovative software solutions. With experience in both **backend** and **frontend** development, I bring versatility and a proactive approach to every project. I have a strong foundation in **Node.js** and **Python** and am actively seeking new opportunities to apply my skills in a challenging and growth-oriented environment.
 
-I specialize in creating scalable backend solutions and love working with agile methodologies and extreme programming practices to drive innovation and efficiency in development.
+---
 
-Skills & Technologies 🚀
+## 🔍 About Me
 
-These are the main technologies I work with daily to build high-quality software:
+- 🛠️ Founder of a software engineering company in Brazil, focusing on **custom software development**, **debugging**, **system integrations**, and **digital innovation consulting**.
+- 👨‍💻 Previously contracted by a Delaware-based company, where I worked on diverse projects from **February to July 2024**.
+- 🎓 Self-driven, continuously learning new technologies and honing my **problem-solving** skills on platforms like [LeetCode](https://github.com/GitArika/leetcode).
+- 💪 Actively looking for remote opportunities in **backend development** and open to HR roles within tech companies to contribute to **developer recruitment** and **team culture building**.
 
-See `summary list of technologys` I use on my daily work bellow:
+---
 
-<img src="./img/typescript.svg" alt="typescript icon" width="18px" height="18px">&nbsp;&nbsp;`Typescript`<img/> - Superset of Javascript with new features
+## 🚀 Skills and Technologies
 
-&nbsp;<img src="./img/javascript.svg" alt="javascript icon" width="18px" height="18px"/>&nbsp;&nbsp;`Javascript`<img/>
-Programming language for web applications
+- **Languages**: JavaScript, TypeScript, Python
+- **Frameworks & Libraries**: Node.js, React, Express
+- **Tools & Platforms**: Git, Docker, AWS, REST APIs
+- **Problem-Solving**: LeetCode, Debugging, Systems Optimization
+- **Other**: HR skills for recruiting and developer assessment
 
-&nbsp;<img src="./img/html.png" alt="html icon" width="18px" height="18px"/>&nbsp;`HTML5`<img/>
-Markup language for web applications
+---
 
-&nbsp;<img src="./img/css.svg" alt="css icon" width="18px" height="18px"/>&nbsp;&nbsp;`CSS3`<img/>
-Style sheet language for web applications
+## 🌟 Featured Projects
 
-&nbsp;<img src="./img/sass.png" alt="sass icon" width="18px" height="18px"/>&nbsp;&nbsp;`Sass`<img/>
-Preprocessor that is compiled into CSS
+### [📘 LeetCode Solutions](https://github.com/GitArika/leetcode)
+A repository of solutions to LeetCode problems, demonstrating my approach to data structures, algorithms, and problem-solving.
 
-&nbsp;<img src="https://imgs.search.brave.com/Q2rFFa8zjSGdQEpaCCO9yenUPUv4RpTH8Gl-Q3fViqU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9vcGVu/Y29udGFpbmVycy5v/cmcvaW1nL21lbWJl/ci1sb2dvcy9kb2Nr/ZXIucG5n" alt="docker icon" width="18px" height="18px"/>&nbsp;&nbsp;`Docker`<img/> Docker helps developers build, share, and run applications anywhere
+### [🔧 iHeroes](https://github.com/GitArika/iheroes)
+An application built to demonstrate my backend and full-stack development skills, using **Node.js** and **React** for a seamless user experience.
 
-&nbsp;<img src="./img/nodejs.svg" alt="nodejs icon" width="18px" height="18px"/>&nbsp;&nbsp;`NodeJS`<img/>
-Provides a javascript backend runtime
+### [📏 commitlint-husky](https://github.com/GitArika/commitlint-husky)
+An example repository showcasing my experience with Git workflows, including **commit linting** and **pre-commit hooks** for code quality.
 
-&nbsp;<img src="./img/react.svg" alt="react icon" width="18px" height="18px"/>&nbsp;&nbsp;`React`<img/>
-Popular library used to create components and user interfaces created by Facebook.
+---
 
-&nbsp;<img src="./img/angular.svg" alt="angular icon" width="18px" height="18px"/>&nbsp;&nbsp;`Angular`<img/>
-Typescript based web application framework created by Google.
+## 📈 What I Bring to the Table
 
-&nbsp;<img src="./img/unit-test.svg" alt="unit test icon" width="18px" height="18px" />&nbsp;&nbsp;`Unit testing`<img/>
-Code quality control practice.
+- 📂 **Comprehensive Project Experience**: From creating applications to enhancing existing systems, I have built solutions across various domains.
+- 🔍 **Detail-Oriented**: Known for clean, maintainable code and a commitment to best practices.
+- 🤝 **Team Collaboration**: Experienced in working independently and as part of international teams, with a dedication to achieving project goals.
+- 🌎 **Multilingual & Cross-Cultural Competency**: Fluent in both English and Portuguese, I adapt well to diverse environments.
 
-&nbsp;<img src="./img/aws.svg" alt="aws icon" width="18px" height="18px" />&nbsp;`AWS`<img/>
-Global cloud computing provider leader.
+---
 
-&nbsp;<img src="./img/azure.svg" alt="azure icon" width="18px" height="18px" />&nbsp;&nbsp;`Azure`<img/>
-Global cloud computing provider.
+## 📫 Let’s Connect!
 
-## Connect with Me 💬
+I'm currently **open to new opportunities** in software engineering. If you're looking for someone who is driven, adaptable, and ready to make a difference, I would love to connect:
 
-Feel free to reach out on [Linkedin](https://www.linkedin.com/in/ariel-evangelista/).
+- 📧 Email: [contato.ariel12@gmail.com](mailto:contato.ariel12@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/ariel-evangelista](https://www.linkedin.com/in/ariel-evangelista/)
+- 🧑‍💻 GitHub: [github.com/GitArika](https://github.com/GitArika)
 
-Let’s create impactful solutions together!
+---
 
-### GitHub Stats 📊
+## 🎯 Career Goals
 
-![Ariel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GitArika&show_icons=true&theme=radical)
+I’m focused on achieving financial stability and growth, with a personal goal of reaching **1 million BRL** through my work as a software engineer and consultant. I’m committed to delivering value and excellence in every opportunity I take on.
 
-### Most Used Languages 🖥️
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GitArika&layout=compact&theme=radical)
+## 📜 License
 
-
-
+All projects in this repository are open-source under the MIT License. Contributions and collaboration requests are welcome!
 
