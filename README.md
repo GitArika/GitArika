@@ -1,6 +1,9 @@
 # I'm Ariel Evangelista! 🇧🇷
 
-I'm a **Brazilian Software Engineer** with a passion for solving complex problems and creating efficient, innovative software solutions. With experience in both **backend** and **frontend** development, I bring versatility and a proactive approach to every project. I have a strong foundation in **Node.js** and **Python** and am actively seeking new opportunities to apply my skills in a challenging and growth-oriented environment.
+- I'm a **Software Engineer** with a passion for solving problems and creating innovative solutions.
+- I'm experienced in **backend**, **frontend** and **devops**. 
+- I bring both holistic and detailed perspective to every project.
+- I have a strong foundation in computer science graduated in [**Faculdade de tecnologia de São Paulo**](https://www.fatecsp.br).
 
 ---
 
