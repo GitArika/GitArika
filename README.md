@@ -10,9 +10,8 @@
 ## 🔍 About Me
 
 - 🛠️ Founder of a software engineering company in Brazil, focusing on **custom software development**, **debugging**, **system integrations**, and **digital innovation consulting**.
-- 👨‍💻 Previously contracted by a Delaware-based company, where I worked on diverse projects from **February to July 2024**.
-- 🎓 Self-driven, continuously learning new technologies and honing my **problem-solving** skills on platforms like [LeetCode](https://github.com/GitArika/leetcode).
-- 💪 Actively looking for remote opportunities in **backend development** and open to HR roles within tech companies to contribute to **developer recruitment** and **team culture building**.
+- 👨‍💻 Actualy working in a Delaware-based company with **python**, **artificial intelligence**, **web3** and **blockchain**.
+- 🎓 Self-driven, continuously learning and honing my **problem-solving** skills.
 
 ---
 
