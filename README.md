@@ -65,3 +65,6 @@ I’m focused on achieving financial stability and growth, with a personal goal 
 
 All projects in this repository are open-source under the MIT License. Contributions and collaboration requests are welcome!
 
+![Grafico de Contribuição](https://github-readme-activity-graph.vercel.app/graph?username=gitarika&radius=16&theme=gotham&area=true&order=5)
+
+
