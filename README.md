@@ -10,7 +10,7 @@
 ## 🔍 About Me
 
 - 🛠️ Founder of a software engineering company in Brazil, focusing on **custom software development**, **debugging**, **system integrations**, and **digital innovation consulting**.
-- 👨‍💻 Actualy working in a Delaware-based company with **python**, **artificial intelligence**, **web3** and **blockchain**.
+- 👨‍💻 Actualy working in a SaaS project as an autonomous **Software Engineer**.
 - 🎓 Self-driven, continuously learning and honing my **problem-solving** skills.
 
 ---
