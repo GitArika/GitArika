@@ -1,70 +1,10 @@
-# I'm Ariel Evangelista! 🇧🇷
-
-- I'm a **Software Engineer** with a passion for solving problems and creating innovative solutions.
-- I'm experienced in **backend**, **frontend** and **devops**. 
-- I bring both holistic and detailed perspective to every project.
-- I have a strong foundation in computer science graduated in [**Faculdade de tecnologia de São Paulo**](https://www.fatecsp.br).
-
----
-
-## 🔍 About Me
-
-- 🛠️ Founder of a software engineering company in Brazil, focusing on **custom software development**, **debugging**, **system integrations**, and **digital innovation consulting**.
-- 👨‍💻 Actualy working in a SaaS project as an autonomous **Software Engineer**.
-- 🎓 Self-driven, continuously learning and honing my **problem-solving** skills.
-
----
-
-## 📈 What I Bring to the Table
-
-- 📂 **Comprehensive Project Experience**: From creating applications to enhancing existing systems, I have built solutions across various domains.
-- 🔍 **Detail-Oriented**: Known for clean, maintainable code and a commitment to best practices.
-- 🤝 **Team Collaboration**: Experienced in working independently and as part of international teams, with a dedication to achieving project goals.
-- 🌎 **Multilingual & Cross-Cultural Competency**: Fluent in both English and Portuguese, I adapt well to diverse environments.
-
----
-
-## 🚀 Skills and Technologies
-
-- **Languages**:  Python, TypeScript/ Javascript
-- **Tools & Platforms**: Github, AWS, Google Cloud Platform, Azure, Docker, Kubernetes
-- **Databases**: SQL Server, Oracle SQL, PostgreSQL, MongoDB, Neo4J, Firebird
-- **Other**: RESTful APIs, GraphQL, Database Management, Application Performance
-
----
-
-## 🌟 Featured Projects
-
-### [📘 LeetCode Solutions](https://github.com/GitArika/leetcode)
-A repository of solutions to LeetCode problems, demonstrating optmal solutions to data structures and algorithms.
-
-### [🔧 iHeroes](https://github.com/GitArika/iheroes)
-An RESTful API built to demonstrate my backend development skills, using **Node.js** and **Express**.
-
-### [📏 commitlint-husky](https://github.com/GitArika/commitlint-husky)
-Git workflows showcasing, including **commit linting** and **pre-commit hooks** for code quality in development pipeline.
-
----
+I have a strong foundation in computer science graduated in Faculdade de tecnologia de São Paulo working since 2018.
 
 ## 📫 Let’s Connect!
 
-I'm currently **open to work**. If you're looking for someone who is ready to make a difference, I'm what you are looking for:
+If you're looking for someone who is willing to work with transparency, I'm what you are looking for:
 
 - [📧 Email](mailto:ariel.se@icloud.com)
 - [💼 LinkedIn](https://www.linkedin.com/in/ariel-evangelista/)
 
 ---
-
-## 🎯 Career Goals
-
-I’m focused on achieving a personal goal of reaching **1 million BRL** through my work. I’m committed to delivering impact, value and excellence in every opportunity I take on.
-
----
-
-## 🤝 Contribute
-
-All repositorys in my profile are open-source under the MIT License. Contributions and collaboration requests are welcome!
-
-![Grafico de Contribuição](https://github-readme-activity-graph.vercel.app/graph?username=gitarika&radius=16&theme=gotham&area=true&order=5)
-
-
