@@ -1,8 +1,6 @@
-I have a strong foundation in computer science graduated in Faculdade de tecnologia de São Paulo working since 2018.
+I'm graduated in Fatec Ipiranga with strong foundations in software engineering.
 
-## Let’s Connect!
-
-If you're looking for someone who is willing to work with transparency, I'm what you are looking for:
+Willing to work with transparency.
 
 [![X](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=x)](https://x.com/CodeWithAriel)
 [![Instagram](https://img.shields.io/badge/Instagram-black?style=flat-square&logo=instagram)](http://instagram.com/alwaysmelted/)
